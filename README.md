@@ -1,5 +1,4 @@
 # TikTok LIVE to Spotify Music Bot
-[![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
 
 Connect to any TikTok LIVE chat in real-time and allows viewers to request and queue songs directly to your active Spotify player using the `!play <song> - <artist>` command.
 
